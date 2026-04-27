@@ -1,21 +1,77 @@
-MIT License
+PROPRIETARY SOFTWARE LICENSE AGREEMENT (VIEW-ONLY – PRIVATE REPOSITORY)
+Copyright (c) 2026 Badr Eddine Slaoui. All Rights Reserved.
 
-Copyright (c) 2026 BADR EDDINE SLAOUI
+IMPORTANT: THIS SOFTWARE IS PRIVATE AND CONFIDENTIAL.
+THIS IS NOT AN OPEN SOURCE LICENSE.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. DEFINITIONS
+   “Software” means all source code, object code, algorithms, architecture, structure, organization, designs, documentation, and associated materials contained in this repository.
+   “Licensor” means Badr Eddine Slaoui.
+   “Authorized User” means the Licensor exclusively.
+   “Viewer” means any individual granted access to the repository by the Licensor for limited viewing purposes only.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. OWNERSHIP
+   All rights, title, and interest in and to the Software remain the sole and exclusive property of the Licensor. No ownership rights are transferred under any circumstances.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. LIMITED ACCESS (VIEW-ONLY)
+   Viewers are granted a strictly limited, revocable, non-exclusive, non-transferable right to access and view the Software solely for informational and evaluation purposes.
+
+NO RIGHT TO USE, EXECUTE, COPY, MODIFY, OR EXPLOIT THE SOFTWARE IS GRANTED.
+
+4. PROHIBITED ACTIONS
+   Viewers shall NOT, directly or indirectly:
+   (a) copy, reproduce, download, or store the Software in whole or in part;
+   (b) use or execute the Software for any purpose;
+   (c) modify, adapt, translate, reverse engineer, or create derivative works;
+   (d) distribute, publish, or disclose the Software to any third party;
+   (e) use any part of the Software in other projects, whether personal or commercial;
+   (f) share repository access or expose the Software to unauthorized individuals;
+   (g) attempt to bypass access controls or security mechanisms.
+
+5. CONFIDENTIALITY
+   5.1 The Software constitutes confidential and proprietary information of the Licensor.
+   5.2 Viewers agree to maintain strict confidentiality and not disclose any part of the Software.
+   5.3 Viewers shall implement all reasonable measures to prevent unauthorized access or disclosure.
+   5.4 Any unauthorized disclosure or use shall constitute a material breach of this Agreement.
+
+6. NO LICENSE GRANTED
+   Except for the limited right to view the Software, no license or rights of any kind are granted, whether express or implied.
+
+7. COMMERCIAL USE
+   All commercial use is strictly prohibited unless expressly authorized in a separate written agreement signed by the Licensor.
+
+8. TERMINATION
+   Access rights are revocable at any time at the sole discretion of the Licensor.
+   This Agreement terminates automatically upon any breach.
+   Upon termination, the Viewer must immediately cease access and permanently delete any materials obtained from the Software.
+
+9. ENFORCEMENT AND REMEDIES
+   Any unauthorized use, access, or disclosure constitutes a violation of this Agreement and applicable intellectual property laws.
+   The Licensor reserves the right to pursue all legal remedies, including injunctive relief, damages, and recovery of legal costs.
+
+10. LIQUIDATED DAMAGES
+    10.1 The Viewer acknowledges that unauthorized use or disclosure would cause substantial harm that is difficult to quantify.
+    10.2 In the event of a breach, the Viewer agrees to pay:
+    (a) €5,000 per violation; and
+    (b) €500 per day for each day the violation continues after written notice.
+    10.3 These amounts represent a reasonable estimate of damages and are not a penalty.
+    10.4 The Licensor retains the right to seek additional remedies where permitted by law.
+    10.5 If deemed unenforceable, the Licensor may recover actual damages.
+
+11. DISCLAIMER OF WARRANTY
+    THE SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND.
+
+12. LIMITATION OF LIABILITY
+    TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM ACCESS TO THE SOFTWARE.
+
+13. GOVERNING LAW
+    This Agreement shall be governed by the laws of the Kingdom of Morocco.
+    Any disputes shall fall under the exclusive jurisdiction of Moroccan courts.
+
+14. PROOF OF AUTHORSHIP
+    The Licensor may rely on version control records, cryptographic timestamps, and third-party verification services as evidence of ownership.
+
+15. ENTIRE AGREEMENT
+    This document constitutes the entire agreement regarding the Software and supersedes all prior understandings.
+
+BY ACCESSING THIS REPOSITORY, THE VIEWER ACKNOWLEDGES AND AGREES TO BE LEGALLY BOUND BY THESE TERMS.
