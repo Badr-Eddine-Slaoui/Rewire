@@ -54,6 +54,8 @@ Traditional evaluation methods rely heavily on manual correction, which is:
 * Publishes jobs to Redis
 * Sends emails & AI feedback
 
+---
+
 #### 2. Evaluation Workers (Go Services)
 
 **Worker 1 — Repository Evaluation**
@@ -82,6 +84,8 @@ Traditional evaluation methods rely heavily on manual correction, which is:
 * Computes per-problem scores
 * Stores failed test cases
 * Cleans up containers after execution
+
+*Note: The design of the problem evaluation workflow was inspired in part by concepts from the SudoCode platform developed by Houssam Mirrou.*
 
 ---
 
@@ -227,6 +231,19 @@ Because it **rewires** the way education evaluates developers:
 * From subjective → objective
 * From manual → automated
 * From slow → real-time
+
+---
+
+## 🤝 Acknowledgment
+
+Part of the problem evaluation approach in **Rewire** was inspired by the work of my classmate **Houssam Mirrou** and his competitive programming platform **SudoCode**.
+
+His contribution played an important role in shaping the evaluation logic, especially in the design of problem-based testing workflows.
+
+🔗 GitHub: https://github.com/houssam-mirrou
+🔗 Project: SudoCode (Private Repository)
+
+This acknowledgment is made with full respect and appreciation for his work.
 
 ---
 
