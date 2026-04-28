@@ -1,17 +1,23 @@
 PROPRIETARY SOFTWARE LICENSE AGREEMENT (VIEW-ONLY – PRIVATE REPOSITORY)
 Copyright (c) 2026 Badr Eddine Slaoui. All Rights Reserved.
 
+Portions of this Software, specifically related to problem evaluation logic, are inspired by and incorporate concepts developed by Houssam Mirrou in the SudoCode platform (GitHub: houssam-mirrou/SudoCode).
+Copyright for those specific conceptual contributions remains attributed to Houssam Mirrou.
+
 IMPORTANT: THIS SOFTWARE IS PRIVATE AND CONFIDENTIAL.
 THIS IS NOT AN OPEN SOURCE LICENSE.
 
 1. DEFINITIONS
    “Software” means all source code, object code, algorithms, architecture, structure, organization, designs, documentation, and associated materials contained in this repository.
-   “Licensor” means Badr Eddine Slaoui.
+   “Licensor” means Badr Eddine Slaoui, who remains the primary owner of the Software.
+   “Contributor” means Houssam Mirrou, acknowledged for contributions and conceptual inspiration related to the problem evaluation component.
    “Authorized User” means the Licensor exclusively.
    “Viewer” means any individual granted access to the repository by the Licensor for limited viewing purposes only.
 
 2. OWNERSHIP
-   All rights, title, and interest in and to the Software remain the sole and exclusive property of the Licensor. No ownership rights are transferred under any circumstances.
+   All rights, title, and interest in and to the Software remain the sole and exclusive property of the Licensor, except for acknowledged conceptual contributions attributed to the Contributor.
+   No ownership rights are transferred under any circumstances.
+   Nothing in this Agreement grants the Contributor rights over the entire Software beyond attribution of their specific contributions.
 
 3. LIMITED ACCESS (VIEW-ONLY)
    Viewers are granted a strictly limited, revocable, non-exclusive, non-transferable right to access and view the Software solely for informational and evaluation purposes.
@@ -73,5 +79,9 @@ NO RIGHT TO USE, EXECUTE, COPY, MODIFY, OR EXPLOIT THE SOFTWARE IS GRANTED.
 
 15. ENTIRE AGREEMENT
     This document constitutes the entire agreement regarding the Software and supersedes all prior understandings.
+
+16. ATTRIBUTION AND ACKNOWLEDGMENT
+    The Licensor acknowledges that part of the problem evaluation approach was inspired by the SudoCode platform developed by Houssam Mirrou.
+    This acknowledgment does not grant any rights to use, reproduce, or distribute the Software.
 
 BY ACCESSING THIS REPOSITORY, THE VIEWER ACKNOWLEDGES AND AGREES TO BE LEGALLY BOUND BY THESE TERMS.
