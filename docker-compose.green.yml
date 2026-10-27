@@ -1,0 +1,26 @@
+services:
+  backend_green:
+    image: badreddineslaoui/rewire-backend:${IMAGE_TAG}
+    container_name: backend_green
+    env_file: .env.laravel
+    expose:
+      - "8000"
+    networks:
+      - default
+      - proxy_net
+    restart: always
+
+  frontend_green:
+    image: badreddineslaoui/rewire-frontend:${IMAGE_TAG}
+    container_name: frontend_green
+    env_file: .env.nuxt
+    networks:
+      - default
+      - proxy_net
+    restart: always
+
+networks:
+  default:
+  proxy_net:
+    external: true
+    name: rewire_proxy

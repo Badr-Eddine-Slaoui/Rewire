@@ -1,0 +1,30 @@
+services:
+  evaluation_worker_green:
+    image: badreddineslaoui/rewire-evaluation-worker:${IMAGE_TAG}
+    container_name: evaluation_worker_green
+    env_file: .env.evaluation_worker
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /tmp:/tmp
+    networks:
+      - default
+      - proxy_net
+    restart: always
+
+  problems_worker_green:
+    image: badreddineslaoui/rewire-problems-worker:${IMAGE_TAG}
+    container_name: problems_worker_green
+    env_file: .env.problems_worker
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /tmp:/tmp
+    networks:
+      - default
+      - proxy_net
+    restart: always
+
+networks:
+  default:
+  proxy_net:
+    external: true
+    name: rewire_proxy
